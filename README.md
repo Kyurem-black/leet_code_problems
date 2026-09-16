@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 18 (Easy: 7, Medium: 11, Hard: 0)
+Solved: 19 (Easy: 8, Medium: 11, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -18,9 +18,10 @@ Solved: 18 (Easy: 7, Medium: 11, Hard: 0)
 | 592 | [Fraction Addition and Subtraction](592-fraction-addition-and-subtraction/) | Medium | 2026-09-16 |
 | 3 | [Longest Substring Without Repeating Characters](3-longest-substring-without-repeating-characters/) | Medium | 2026-09-16 |
 | 7 | [Reverse Integer](7-reverse-integer/) | Medium | 2026-09-16 |
+| 71 | [Simplify Path](71-simplify-path/) | Medium | 2026-09-16 |
 | 3903 | [Smallest Stable Index I](3903-smallest-stable-index-i/) | Easy | 2026-09-16 |
 | 3904 | [Smallest Stable Index II](3904-smallest-stable-index-ii/) | Medium | 2026-09-16 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-09-16 |
 | 929 | [Unique Email Addresses](929-unique-email-addresses/) | Easy | 2026-09-16 |
-| 71 | [Simplify Path](71-simplify-path/) | Medium | 2026-09-16 |
+| 704 | [Binary Search](704-binary-search/) | Easy | 2026-09-16 |
 <!-- LEETHUB:TABLE:END -->
