@@ -1,11 +1,12 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 19 (Easy: 8, Medium: 11, Hard: 0)
+Solved: 20 (Easy: 9, Medium: 11, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
 | 121 | [Best Time to Buy and Sell Stock](121-best-time-to-buy-and-sell-stock/) | Easy | 2026-09-16 |
+| 704 | [Binary Search](704-binary-search/) | Easy | 2026-09-16 |
 | 853 | [Car Fleet](853-car-fleet/) | Medium | 2026-09-16 |
 | 3875 | [Construct Uniform Parity Array I](3875-construct-uniform-parity-array-i/) | Easy | 2026-09-16 |
 | 11 | [Container With Most Water](11-container-with-most-water/) | Medium | 2026-09-16 |
@@ -23,5 +24,5 @@ Solved: 19 (Easy: 8, Medium: 11, Hard: 0)
 | 3904 | [Smallest Stable Index II](3904-smallest-stable-index-ii/) | Medium | 2026-09-16 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-09-16 |
 | 929 | [Unique Email Addresses](929-unique-email-addresses/) | Easy | 2026-09-16 |
-| 704 | [Binary Search](704-binary-search/) | Easy | 2026-09-16 |
+| 69 | [Sqrt(x)](69-sqrtx/) | Easy | 2026-09-16 |
 <!-- LEETHUB:TABLE:END -->
