@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 21 (Easy: 9, Medium: 12, Hard: 0)
+Solved: 22 (Easy: 10, Medium: 12, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -18,6 +18,7 @@ Solved: 21 (Easy: 9, Medium: 12, Hard: 0)
 | 1108 | [Defanging an IP Address](1108-defanging-an-ip-address/) | Easy | 2026-09-17 |
 | 592 | [Fraction Addition and Subtraction](592-fraction-addition-and-subtraction/) | Medium | 2026-09-17 |
 | 3 | [Longest Substring Without Repeating Characters](3-longest-substring-without-repeating-characters/) | Medium | 2026-09-17 |
+| 4014 | [Minimum Total Price After Applying Discounts](4014-minimum-total-price-after-applying-discounts/) | Medium | 2026-09-17 |
 | 7 | [Reverse Integer](7-reverse-integer/) | Medium | 2026-09-17 |
 | 71 | [Simplify Path](71-simplify-path/) | Medium | 2026-09-17 |
 | 3903 | [Smallest Stable Index I](3903-smallest-stable-index-i/) | Easy | 2026-09-17 |
@@ -25,5 +26,5 @@ Solved: 21 (Easy: 9, Medium: 12, Hard: 0)
 | 69 | [Sqrt(x)](69-sqrtx/) | Easy | 2026-09-17 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-09-17 |
 | 929 | [Unique Email Addresses](929-unique-email-addresses/) | Easy | 2026-09-17 |
-| 4014 | [Minimum Total Price After Applying Discounts](4014-minimum-total-price-after-applying-discounts/) | Medium | 2026-09-17 |
+| 4010 | [Maximize Pair Strength Using GCD](4010-maximize-pair-strength-using-gcd/) | Easy | 2026-09-17 |
 <!-- LEETHUB:TABLE:END -->
