@@ -21,6 +21,7 @@ Solved: 24 (Easy: 12, Medium: 12, Hard: 0)
 | 4010 | [Maximize Pair Strength Using GCD](4010-maximize-pair-strength-using-gcd/) | Easy | 2026-09-20 |
 | 4014 | [Minimum Total Price After Applying Discounts](4014-minimum-total-price-after-applying-discounts/) | Medium | 2026-09-20 |
 | 1512 | [Number of Good Pairs](1512-number-of-good-pairs/) | Easy | 2026-09-20 |
+| 3498 | [Reverse Degree of a String](3498-reverse-degree-of-a-string/) | Easy | 2026-09-20 |
 | 7 | [Reverse Integer](7-reverse-integer/) | Medium | 2026-09-20 |
 | 71 | [Simplify Path](71-simplify-path/) | Medium | 2026-09-20 |
 | 3903 | [Smallest Stable Index I](3903-smallest-stable-index-i/) | Easy | 2026-09-20 |
@@ -28,5 +29,4 @@ Solved: 24 (Easy: 12, Medium: 12, Hard: 0)
 | 69 | [Sqrt(x)](69-sqrtx/) | Easy | 2026-09-20 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-09-20 |
 | 929 | [Unique Email Addresses](929-unique-email-addresses/) | Easy | 2026-09-20 |
-| 3498 | [Reverse Degree of a String](3498-reverse-degree-of-a-string/) | Easy | 2026-09-20 |
 <!-- LEETHUB:TABLE:END -->
