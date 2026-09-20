@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 25 (Easy: 13, Medium: 12, Hard: 0)
+Solved: 26 (Easy: 13, Medium: 13, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -15,6 +15,7 @@ Solved: 25 (Easy: 13, Medium: 12, Hard: 0)
 | 3871 | [Count Commas in Range II](3871-count-commas-in-range-ii/) | Medium | 2026-09-20 |
 | 4049 | [Count Values With Equally Spaced Occurrences II](4049-count-values-with-equally-spaced-occurrences-ii/) | Medium | 2026-09-20 |
 | 394 | [Decode String](394-decode-string/) | Medium | 2026-09-20 |
+| 2325 | [Decode the Message](2325-decode-the-message/) | Easy | 2026-09-20 |
 | 1108 | [Defanging an IP Address](1108-defanging-an-ip-address/) | Easy | 2026-09-20 |
 | 592 | [Fraction Addition and Subtraction](592-fraction-addition-and-subtraction/) | Medium | 2026-09-20 |
 | 3 | [Longest Substring Without Repeating Characters](3-longest-substring-without-repeating-characters/) | Medium | 2026-09-20 |
@@ -29,5 +30,5 @@ Solved: 25 (Easy: 13, Medium: 12, Hard: 0)
 | 69 | [Sqrt(x)](69-sqrtx/) | Easy | 2026-09-20 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-09-20 |
 | 929 | [Unique Email Addresses](929-unique-email-addresses/) | Easy | 2026-09-20 |
-| 2325 | [Decode the Message](2325-decode-the-message/) | Easy | 2026-09-20 |
+| 846 | [Hand of Straights](846-hand-of-straights/) | Medium | 2026-09-20 |
 <!-- LEETHUB:TABLE:END -->
