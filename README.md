@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 24 (Easy: 12, Medium: 12, Hard: 0)
+Solved: 25 (Easy: 13, Medium: 12, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -29,4 +29,5 @@ Solved: 24 (Easy: 12, Medium: 12, Hard: 0)
 | 69 | [Sqrt(x)](69-sqrtx/) | Easy | 2026-09-20 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-09-20 |
 | 929 | [Unique Email Addresses](929-unique-email-addresses/) | Easy | 2026-09-20 |
+| 2325 | [Decode the Message](2325-decode-the-message/) | Easy | 2026-09-20 |
 <!-- LEETHUB:TABLE:END -->
