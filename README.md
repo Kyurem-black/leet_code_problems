@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 31 (Easy: 16, Medium: 15, Hard: 0)
+Solved: 32 (Easy: 16, Medium: 16, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -26,6 +26,7 @@ Solved: 31 (Easy: 16, Medium: 15, Hard: 0)
 | 1658 | [Minimum Operations to Reduce X to Zero](1658-minimum-operations-to-reduce-x-to-zero/) | Medium | 2026-09-26 |
 | 4014 | [Minimum Total Price After Applying Discounts](4014-minimum-total-price-after-applying-discounts/) | Medium | 2026-09-26 |
 | 1512 | [Number of Good Pairs](1512-number-of-good-pairs/) | Easy | 2026-09-26 |
+| 4056 | [Number of Intersecting Interval Pairs I](4056-number-of-intersecting-interval-pairs-i/) | Easy | 2026-09-26 |
 | 3498 | [Reverse Degree of a String](3498-reverse-degree-of-a-string/) | Easy | 2026-09-26 |
 | 7 | [Reverse Integer](7-reverse-integer/) | Medium | 2026-09-26 |
 | 71 | [Simplify Path](71-simplify-path/) | Medium | 2026-09-26 |
@@ -35,5 +36,5 @@ Solved: 31 (Easy: 16, Medium: 15, Hard: 0)
 | 69 | [Sqrt(x)](69-sqrtx/) | Easy | 2026-09-26 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-09-26 |
 | 929 | [Unique Email Addresses](929-unique-email-addresses/) | Easy | 2026-09-26 |
-| 4056 | [Number of Intersecting Interval Pairs I](4056-number-of-intersecting-interval-pairs-i/) | Easy | 2026-09-26 |
+| 2491 | [Divide Players Into Teams of Equal Skill](2491-divide-players-into-teams-of-equal-skill/) | Medium | 2026-09-26 |
 <!-- LEETHUB:TABLE:END -->
