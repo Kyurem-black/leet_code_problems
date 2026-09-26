@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 29 (Easy: 14, Medium: 15, Hard: 0)
+Solved: 30 (Easy: 15, Medium: 15, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -17,6 +17,7 @@ Solved: 29 (Easy: 14, Medium: 15, Hard: 0)
 | 394 | [Decode String](394-decode-string/) | Medium | 2026-09-26 |
 | 2325 | [Decode the Message](2325-decode-the-message/) | Easy | 2026-09-26 |
 | 1108 | [Defanging an IP Address](1108-defanging-an-ip-address/) | Easy | 2026-09-26 |
+| 1807 | [Evaluate the Bracket Pairs of a String](1807-evaluate-the-bracket-pairs-of-a-string/) | Medium | 2026-09-26 |
 | 592 | [Fraction Addition and Subtraction](592-fraction-addition-and-subtraction/) | Medium | 2026-09-26 |
 | 846 | [Hand of Straights](846-hand-of-straights/) | Medium | 2026-09-26 |
 | 3 | [Longest Substring Without Repeating Characters](3-longest-substring-without-repeating-characters/) | Medium | 2026-09-26 |
@@ -33,5 +34,5 @@ Solved: 29 (Easy: 14, Medium: 15, Hard: 0)
 | 69 | [Sqrt(x)](69-sqrtx/) | Easy | 2026-09-26 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-09-26 |
 | 929 | [Unique Email Addresses](929-unique-email-addresses/) | Easy | 2026-09-26 |
-| 1807 | [Evaluate the Bracket Pairs of a String](1807-evaluate-the-bracket-pairs-of-a-string/) | Medium | 2026-09-26 |
+| 374 | [Guess Number Higher or Lower](374-guess-number-higher-or-lower/) | Easy | 2026-09-26 |
 <!-- LEETHUB:TABLE:END -->
